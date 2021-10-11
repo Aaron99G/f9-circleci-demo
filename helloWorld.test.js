@@ -1,3 +1,3 @@
 test('Hello world', () => {
-    expect('hello'.fontcolor.toBe('world'))
+    expect('hello'.not.toBe('world'));
 })
