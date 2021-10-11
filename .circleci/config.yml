@@ -27,6 +27,7 @@
 #       - say-hello
 
 
+# SETTING UP 
 version: 2.1
 orbs:
   node: circleci/node@1.1
